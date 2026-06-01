@@ -17,6 +17,8 @@ ENV/
 
 build/
 dist/
+release-build/
+打包目录/
 *.egg-info/
 
 dashboard_config.json

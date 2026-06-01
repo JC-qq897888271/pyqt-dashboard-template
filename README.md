@@ -2,6 +2,8 @@
 
 基于 PyQt5 的桌面仪表盘界面示例。项目入口是 `main.py`，支持状态展示、数据绑定、曲线绘制、图片预览、全屏显示和本地配置保存。
 
+![主界面预览](docs/ui-preview.png)
+
 ## 功能概览
 
 - PyQt5 桌面大屏界面
@@ -28,6 +30,10 @@ python -m pip install -r requirements.txt
 ```powershell
 python .\main.py
 ```
+
+## 下载打包程序
+
+Windows 可执行文件见 [`release/pyqt-dashboard-template.exe`](release/pyqt-dashboard-template.exe)。
 
 ## 导出预览图
 
